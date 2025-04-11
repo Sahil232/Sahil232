@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for [KFC](www.kfc.com)
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **react, JavaScript**
 
